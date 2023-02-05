@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{384535AA-6EFE-4CFC-A75C-4601DB5E8CDB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gpdoud/Repos/TestAutoMigrartion/Models/AppDbContext.cs" relfile="Models/AppDbContext.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestAutoMigrartion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="5" Column="34" />
+      <File FileName="Models/AppDbContext.cs" Line="11" Column="13" />
+      <File FileName="Program.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAutoMigrartion" expanded="True">
+            <Node name="TestAutoMigrartion" expanded="True" selected="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
